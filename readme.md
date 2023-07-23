@@ -7,7 +7,7 @@ The objective, as a data analyst, was to draw insights on the available data fro
 ## Summary
 | Code      | Name        | Published Article |  PowerBi Dashboard |
 |-----------|-------------|:-------------:|------:|
-| LP1       | Indian Startup Funding Analysis  |  [https://medium.com/@priscillahmusyoka128/exploratory-data-analysis-for-indian-startup-ecosystem-a-visualization-approach-of-indian-startup-d2f8325ef869](/) | [https://azubiafrica-my.sharepoint.com/:u:/g/personal/andrew_obando_azubiafrica_org/Ef-EcGbAPlBGkmtiwROJbfABhJsXFu3Gc3ZjU8fXPw67dQ?e=IcM8Yn](/) |
+| LP1       | Indian Startup Funding Analysis  |  [https://medium.com/@priscillahmusyoka128/eda-for-indian-startups-ecosystem-from-2018-to-2021-a-visualization-approach-of-the-top-startups-1f6bbf241834](/) | [https://azubiafrica-my.sharepoint.com/:u:/g/personal/andrew_obando_azubiafrica_org/Ef-EcGbAPlBGkmtiwROJbfABhJsXFu3Gc3ZjU8fXPw67dQ?e=IcM8Yn](/) |
 
 
 ## **Column names and description in Final Data:**
