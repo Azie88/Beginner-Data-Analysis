@@ -7,10 +7,10 @@ The objective, as a data analyst, was to draw insights on the available data fro
 ## Summary
 | Code      | Name        | Published Article |  PowerBi Dashboard |
 |-----------|-------------|:-------------:|------:|
-| LP1       | Indian Startup Funding Analysis  |  [https://www.linkedin.com/pulse/indian-startup-ecosystem-analysis-project-gideon-dadzie](/) | [https://app.powerbi.com/groups/me/reports/7d9ea4df-fcf8-4e6e-b85b-cab723cb706d?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare](/) |
+| LP1       | Indian Startup Funding Analysis  |  [https://medium.com/@priscillahmusyoka128/exploratory-data-analysis-for-indian-startup-ecosystem-a-visualization-approach-of-indian-startup-d2f8325ef869](/) | [https://azubiafrica-my.sharepoint.com/:u:/g/personal/andrew_obando_azubiafrica_org/Ef-EcGbAPlBGkmtiwROJbfABhJsXFu3Gc3ZjU8fXPw67dQ?e=IcM8Yn](/) |
 
 
-**Column names and description in Final Data:**
+## **Column names and description in Final Data:**
 
 -   **Company/Brand**: Name of the company/start-up
 
@@ -36,57 +36,18 @@ The objective, as a data analyst, was to draw insights on the available data fro
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
 </p>
 
-## Instructions
+## Process
 
-Your task is to develop a unique story from this dataset by stating and
-testing a hypothesis, asking questions, perform analysis and share
-insights with appropriate visualisations.
+-   Pull data from remote database with pyodbc; save as csv files
 
-So as part of the project you are to:
+-   Develop questions and a hypothesis to base analysis of the project on
 
--   Ask questions
+-   Understand the data and make decisions on how to process the data
 
--   Develop hypothesis
+-   Data preprocessing, cleaning and merging- The data was very messy and 90% of the project involved cleaning and making the data ready for analysis and visualizations
 
--   Process the data
+-   Visualise the data with seaborn and pyplot
 
--   Analyse the data
+-   Created a PowerBI dashboard with the visualizations
 
--   Visualise the data
-
-Upon completion compile these processes in a blog post and share your
-analysis on Medium, LinkedIn, Dev.to, personal blog or a suitable
-blogging website.
-
-# Rubric
-
-Data Processing:
-
--   **Excellent**: Described in detail the data cleaning process and
-    assumptions
-
--   **Good**: Gave a summary of the data cleaning process
-
--   **Fair**: Gave a bullet list of data cleaning process with short
-    sentences
-
-Hypothesis & Questions:
-
--   **Excellent**: Stated a hypothesis and asked at least 5 questions
-
--   **Good**: Stated a hypothesis and asked up to 4 questions
-
--   **Fair**: No hypothesis and asked up to 3 questions
-
-Analysis & Visualisation:
-
--   **Excellent**: Validated the hypothesis and answered all questions
-    listed earlier with appropriate charts. Used relevant diagrams and
-    charts to show analysis/metrics
-
--   **Good**: Validated the hypothesis and answered some of the
-    questions listed with appropriate charts. Used relevant diagrams but
-    might need some improvement.
-
--   **Fair**: Lack of clarity on whether the hypothesis was true or not.
-    Answered some of the questions listed.
+-   Wrote a medium article and briefly described the process, findings and recommendations
