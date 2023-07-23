@@ -1,26 +1,22 @@
 # Data Analysis Project -- Indian Start-up Funding Analysis
 
-Ideas, creativity, and execution are essential for a start-up to
-flourish. But are they enough? Investors provide start-ups and other
-entrepreneurial ventures with the capital---popularly known as
-\"funding\"---to think big, grow rich, and leave a lasting impact. In
-this project, you are going to analyse funding received by start-ups in
-India from 2018 to 2021. You will find the data for each year of funding
-in a separate csv file in the dataset provided. In these files you\'ll
-find the start-ups' details, the funding amounts received, and the
-investors\' information.
+This project involved using the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework to analyze data on startup growth, funding patterns, success rates, regional concentration, and market penetration of the Indian Startup Ecosystem between **2018 and 2021**.
 
-**Column names and description:**
+The objective, as a data analyst, was to draw insights on the available data from 4 tables and give actionable insights and recommendations to our team that, hypothetically speaking, wants to venture into the Indian startup market. The project utilized advanced statistical techniques and visualization tools to draw meaningful conclusions and present our findings effectively.
+
+## Summary
+| Code      | Name        | Published Article |  PowerBi Dashboard |
+|-----------|-------------|:-------------:|------:|
+| LP1       | Indian Startup Funding Analysis  |  [https://www.linkedin.com/pulse/indian-startup-ecosystem-analysis-project-gideon-dadzie](/) | [https://app.powerbi.com/groups/me/reports/7d9ea4df-fcf8-4e6e-b85b-cab723cb706d?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare](/) |
+
+
+**Column names and description in Final Data:**
 
 -   **Company/Brand**: Name of the company/start-up
-
--   **Founded**: Year start-up was founded
 
 -   **Sector**: Sector of service
 
 -   **What it does**: Description about Company
-
--   **Founders**: Founders of the Company
 
 -   **Investor**: Investors
 
@@ -28,11 +24,17 @@ investors\' information.
 
 -   **Stage**: Round of funding reached
 
-## Scenario 
+-   **Year**: The year of funding
 
-Your team is trying to venture into the Indian start-up ecosystem. As the 
-data expert of the team you are to investigate the ecosystem and propose 
-the best course of action. 
+
+<h2> 🚀 &nbsp;Some Tools Used For The Project</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
+</p>
 
 ## Instructions
 
