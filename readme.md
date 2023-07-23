@@ -51,3 +51,14 @@ The objective, as a data analyst, was to draw insights on the available data fro
 -   Created a PowerBI dashboard with the visualizations
 
 -   Wrote a medium article and briefly described the process, findings and recommendations
+
+## Key Insights :chart_with_upwards_trend:
+
+1. India's startup ecosystem is positive and thriving with strong favor towards technological companies
+2. Equal opportunities exist for non-technological sectors as well
+3. Fintech and edtech sectors are particularly active in the Indian startup ecosystem
+4. Mumbai is at the forefront of these developments in fintech and edtech sectors
+5. Non-technical industries have a few large investments that skew the mean higher
+6. Technical industries have a larger number of smaller investments, driving up the sum.
+
+The Indian startup ecosystem is a vibrant and influential force in the global market. This project provides valuable insights into funding patterns and industry preferences. By leveraging this information, stakeholders can make informed decisions and contribute to the growth and success of startups in India.
