@@ -10,7 +10,7 @@ The objective, as a data analyst, was to draw insights on the available data fro
 
 | Code | Name | Published Article | PowerBi Dashboard |
 |------|------|-------------------|-------------------|
-| LP1 | Indian Startup Funding Analysis | <a href="https://medium.com/@obandoandrew8/beginner-data-analytics-indian-startup-ecosystem-dataset-2018-2021-e4a5a2fb5516">Medium Article</a> | <a href="https://app.powerbi.com/view?r=eyJrIjoiZmIzYzA2YzAtMzM4NC00M2Q0LWE0MGQtNzY0Mzg4OWU0YTAwIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9">PowerBI Dashboard</a> |
+| LP1 | Indian Startup Funding Analysis | <a href="https://medium.com/@obandoandrew8/beginner-data-analytics-indian-startup-ecosystem-dataset-2018-2021-e4a5a2fb5516">Medium Article</a> | <a href="https://app.powerbi.com/view?r=eyJrIjoiZjFiMjUyNTAtYTBlOC00Njk3LWI4OWUtZWI3MWI0YjMwMDVlIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9">PowerBI Dashboard</a> |
 
 
 ## **Column names and description in Final Data:**
@@ -29,8 +29,9 @@ The objective, as a data analyst, was to draw insights on the available data fro
 
 - **Year**: The year of funding
 
-<h2> 🚀 &nbsp;Some Tools Used For The Project</h2>
-<p align="left">
+<h2> Some Tools Used For The Project 🚀</h2>
+
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
