@@ -75,6 +75,7 @@ The objective, as a data analyst, was to draw insights on the available data fro
 The Indian startup ecosystem is a vibrant and influential force in the global market. This project provides valuable insights into funding patterns and industry preferences. By leveraging this information, stakeholders can make informed decisions and contribute to the growth and success of startups in India.
 
 ## Dashboard
+![Dashboard](https://github.com/Azie88/LP1-Data-Analysis/assets/101363399/82c784e7-f817-4642-905c-a5f7d2ed724f)
 
 ## Getting Started🏁
 
