@@ -8,7 +8,7 @@ The objective, as a data analyst, was to draw insights on the available data fro
 
 | Code | Name | Published Article | PowerBi Dashboard |
 |------|------|-------------------|-------------------|
-| LP1 | Indian Startup Funding Analysis | [Medium Article](https://medium.com/@obandoandrew8/beginner-data-analytics-indian-startup-ecosystem-dataset-2018-2021-e4a5a2fb5516){:target="_blank"} | [PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmIzYzA2YzAtMzM4NC00M2Q0LWE0MGQtNzY4Mzg4OWU0YTAwIiwidCI6IjQ0ODdiNTJmLWY1MTgtNDgzMC1iNDlkLTNjMjk4Y2B3MTA3NSJ9){:target="_blank"} |
+| LP1 | Indian Startup Funding Analysis | [Medium Article](https://medium.com/@obandoandrew8/beginner-data-analytics-indian-startup-ecosystem-dataset-2018-2021-e4a5a2fb5516 {:target="_blank"} )| [PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmIzYzA2YzAtMzM4NC00M2Q0LWE0MGQtNzY0Mzg4OWU0YTAwIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9 {:target="_blank"} )|
 
 ## **Column names and description in Final Data:**
 
