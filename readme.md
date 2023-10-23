@@ -1,31 +1,30 @@
-# Data Analysis Project -- Indian Start-up Funding Analysis
+# Data Analysis Project -- Indian Start-up Funding Analysis 🇮🇳 🕴️
 
 This project involved using the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework to analyze data on startup growth, funding patterns, success rates, regional concentration, and market penetration of the Indian Startup Ecosystem between **2018 and 2021**.
 
 The objective, as a data analyst, was to draw insights on the available data from 4 tables and give actionable insights and recommendations to our team that, hypothetically speaking, wants to venture into the Indian startup market. The project utilized advanced statistical techniques and visualization tools to draw meaningful conclusions and present our findings effectively.
 
-## Summary
-| Code      | Name        | Published Article |  PowerBi Dashboard |
-|-----------|-------------|:-------------:|------:|
-| LP1       | Indian Startup Funding Analysis  |  <br>https://medium.com/@obandoandrew8/beginner-data-analytics-indian-startup-ecosystem-dataset-2018-2021-e4a5a2fb5516 </br>(/) | <br>https://app.powerbi.com/links/9d3qk6sfqX?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare</br>(/) |
+## Summary 📄
 
+| Code | Name | Published Article | PowerBi Dashboard |
+|------|------|-------------------|-------------------|
+| LP1 | Indian Startup Funding Analysis | [Medium Article](https://medium.com/@obandoandrew8/beginner-data-analytics-indian-startup-ecosystem-dataset-2018-2021-e4a5a2fb5516){:target="_blank"} | [PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmIzYzA2YzAtMzM4NC00M2Q0LWE0MGQtNzY4Mzg4OWU0YTAwIiwidCI6IjQ0ODdiNTJmLWY1MTgtNDgzMC1iNDlkLTNjMjk4Y2B3MTA3NSJ9){:target="_blank"} |
 
 ## **Column names and description in Final Data:**
 
--   **Company/Brand**: Name of the company/start-up
+- **Company/Brand**: Name of the company/start-up
 
--   **Sector**: Sector of service
+- **Sector**: Sector of service
 
--   **What it does**: Description about Company
+- **What it does**: Description about Company
 
--   **Investor**: Investors
+- **Investor**: Investors
 
--   **Amount(\$)**: Raised fund
+- **Amount(\$)**: Raised fund
 
--   **Stage**: Round of funding reached
+- **Stage**: Round of funding reached
 
--   **Year**: The year of funding
-
+- **Year**: The year of funding
 
 <h2> 🚀 &nbsp;Some Tools Used For The Project</h2>
 <p align="left">
@@ -36,21 +35,29 @@ The objective, as a data analyst, was to draw insights on the available data fro
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
 </p>
 
-## Process
+## Process 🪜
 
--   Pull data from remote database with pyodbc; save as csv files
+- Pull data from remote database with pyodbc; save as csv files
 
--   Develop questions and a hypothesis to base analysis of the project on
+- Develop questions and a hypothesis to base analysis of the project on
 
--   Understand the data and make decisions on how to process the data
+- Understand the data and make decisions on how to process the data
 
--   Data preprocessing, cleaning and merging- The data was very messy and 90% of the project involved cleaning and making the data ready for analysis and visualizations
+- Data preprocessing, cleaning and merging- The data was very messy and 90% of the project involved cleaning and making the data ready for analysis and visualizations
 
--   Visualise the data with seaborn and pyplot
+- Visualise the data with seaborn and pyplot
 
--   Created a PowerBI dashboard with the visualizations
+- Created a PowerBI dashboard with the visualizations
 
--   Wrote a medium article and briefly described the process, findings and recommendations
+- Wrote a medium article and briefly described the process, findings and recommendations
+
+## Project Structure 📂
+
+- `Dataset/`: Contains the dataset used for analysis.
+- `.gitignore`: Holds files to be ignored by Git.
+- `LICENSE`: Project license.
+- `Project_notebook.ipynb`: The jupyter notebook with data cleaning, EDA and visualizations
+- `README.md`: Project overview, links, highlights, and information.
 
 ## Key Insights :chart_with_upwards_trend:
 
@@ -62,3 +69,22 @@ The objective, as a data analyst, was to draw insights on the available data fro
 6. Technical industries have a larger number of smaller investments, driving up the sum.
 
 The Indian startup ecosystem is a vibrant and influential force in the global market. This project provides valuable insights into funding patterns and industry preferences. By leveraging this information, stakeholders can make informed decisions and contribute to the growth and success of startups in India.
+
+## Dashboard
+
+## Getting Started🏁
+
+1. Clone this repository: `git clone https://github.com/Azie88/LP1-Data-Analysis.git`
+2. Explore the Jupyter notebook for detailed steps and code execution.
+3. Check out the Power BI dashboard for interactive visualizations.
+4. Read the published article for a comprehensive understanding of the project.
+
+## Author✍️
+
+Andrew Obando
+
+Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/andrewobando/)
+
+---
+
+Feel free to star ⭐ this repository if you find it helpful!
