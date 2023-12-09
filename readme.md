@@ -69,6 +69,7 @@ The objective, as a data analyst, was to draw insights on the available data fro
 - `LICENSE`: Project license.
 - `Project_notebook.ipynb`: The jupyter notebook with data cleaning, EDA and visualizations
 - `README.md`: Project overview, links, highlights, and information.
+- `requirements.txt`: Required libraries & packages
 
 
 
@@ -97,7 +98,8 @@ You need to have [`Python 3`](https://www.python.org/) on your system. Then you 
 
 - Windows:
         
-        python -m venv venv; venv\Scripts\activate; 
+        python -m venv venv; 
+        venv\Scripts\activate; 
         python -m pip install -q --upgrade pip; 
         python -m pip install -qr requirements.txt  
 
