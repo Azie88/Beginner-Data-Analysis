@@ -7,7 +7,6 @@ This project involved using the CRISP-DM (Cross-Industry Standard Process for Da
 The objective, as a data analyst, was to draw insights on the available data from 4 tables and give actionable insights and recommendations to our team that, hypothetically speaking, wants to venture into the Indian startup market. The project utilized advanced statistical techniques and visualization tools to draw meaningful conclusions and present our findings effectively.
 
 
-
 ## Summary 📄
 
 | Code | Name | Published Article | PowerBi Dashboard |
