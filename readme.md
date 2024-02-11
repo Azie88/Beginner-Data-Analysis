@@ -1,4 +1,4 @@
-# Beginner Data Analytics -- Indian Start-up Funding Analysis 🇮🇳 🕴️
+# Beginner Data Analytics -- Indian Start-up Funding Analysis 🇮🇳 :money_with_wings:
 ![Punjabi Businessmen](https://github.com/Azie88/LP1-Data-Analysis/assets/101363399/cb0f1d49-3d72-4b74-ae74-48c3d83a96f5)
 
 
@@ -8,16 +8,27 @@ This project involved using the CRISP-DM (Cross-Industry Standard Process for Da
 The objective, as a data analyst, was to draw insights on the available data from 4 tables and give actionable insights and recommendations to our team that, hypothetically speaking, wants to venture into the Indian startup market. The project utilized advanced statistical techniques and visualization tools to draw meaningful conclusions and present our findings effectively.
 
 
-## Summary 📄
+## Project Links :link:
 
 | Code | Name | Published Article | PowerBi Dashboard |
 |------|------|-------------------|-------------------|
 | LP1 | Indian Startup Funding Analysis | <a href="https://medium.com/@obandoandrew8/beginner-data-analytics-indian-startup-ecosystem-dataset-2018-2021-e4a5a2fb5516">Medium Article</a> | <a href="https://app.powerbi.com/view?r=eyJrIjoiZjFiMjUyNTAtYTBlOC00Njk3LWI4OWUtZWI3MWI0YjMwMDVlIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9">PowerBI Dashboard</a> |
 
 
+## Table of Contents 🔖
+- [Project Links](#project-links-link)
+- [Dataset](#dataset-information_source)
+- [Some Tools Used For The Project](#some-tools-used-for-the-project-toolbox)
+- [Dataset](#data-fields-)
+- [Process](#process)
+- [Project Structure](#project-structure-open_file_folder)
+- [Key Insights](#key-insights-chart_with_upwards_trend)
+- [Dashboard](#dashboard-tv)
+- [How To Use This Repository](#how-to-use-the-repository)
+- [Author](#author-writing_hand)
 
 
-## **Column names and description in Final Data:**
+## Dataset :information_source:
 
 - **Company/Brand**: Name of the company/start-up
 
@@ -33,7 +44,8 @@ The objective, as a data analyst, was to draw insights on the available data fro
 
 - **Year**: The year of funding
 
-<h2> Some Tools Used For The Project 🚀</h2>
+
+## Some Tools Used For The Project :toolbox:
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -45,7 +57,7 @@ The objective, as a data analyst, was to draw insights on the available data fro
 
 
 
-## Process 🪜
+## Process
 
 - Pull data from remote database with pyodbc; save as csv files
 
@@ -63,7 +75,7 @@ The objective, as a data analyst, was to draw insights on the available data fro
 
 
 
-## Project Structure 📂
+## Project Structure :open_file_folder:
 
 - `Dataset/`: Contains the dataset used for analysis.
 - `.gitignore`: Holds files to be ignored by Git.
@@ -87,10 +99,10 @@ The Indian startup ecosystem is a vibrant and influential force in the global ma
 
 
 
-## Dashboard 📺
+## Dashboard :tv:
 ![Dashboard](https://github.com/Azie88/LP1-Data-Analysis/assets/101363399/82c784e7-f817-4642-905c-a5f7d2ed724f)
 
-## How to Use The Repository🏁
+## How to Use The Repository
 
 You need to have [`Python 3`](https://www.python.org/) on your system. Then you can clone this repo and being at the repo's `root :: repository_name> ...`
 
@@ -124,7 +136,7 @@ The two long command-lines have the same structure. They pipe multiple commands 
 4. Check out the Power BI dashboard for interactive visualizations.
 5. Read the published article for a comprehensive understanding of the project.
 
-## Author✍️
+## Author :writing_hand:
 
 Andrew Obando
 
