@@ -1,5 +1,6 @@
 # Beginner Data Analytics -- Indian Start-up Funding Analysis 🇮🇳 🕴️
-![flag-india](https://github.com/Azie88/LP1-Data-Analysis/assets/101363399/33d9e0c6-0b2a-42ce-8473-129932025fec)
+![Punjabi Businessmen](https://github.com/Azie88/LP1-Data-Analysis/assets/101363399/cb0f1d49-3d72-4b74-ae74-48c3d83a96f5)
+
 
 
 This project involved using the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework to analyze data on startup growth, funding patterns, success rates, regional concentration, and market penetration of the Indian Startup Ecosystem between **2018 and 2021**.
