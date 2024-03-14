@@ -90,8 +90,8 @@ The objective, as a data analyst, was to draw insights on the available data fro
 
 1. India's startup ecosystem is positive and thriving with strong favor towards technological companies
 2. Equal opportunities exist for non-technological sectors as well
-3. Fintech and edtech sectors are particularly active in the Indian startup ecosystem
-4. Mumbai is at the forefront of these developments in fintech and edtech sectors
+3. Fintech and retail sectors are particularly active in the Indian startup ecosystem
+4. Mumbai is at the forefront of these developments in fintech and retail sectors
 5. Non-technical industries have a few large investments that skew the mean higher
 6. Technical industries have a larger number of smaller investments, driving up the sum.
 
@@ -141,6 +141,8 @@ The two long command-lines have the same structure. They pipe multiple commands 
 Andrew Obando
 
 Connect with me on LinkedIn: [Andrew Obando](https://www.linkedin.com/in/andrewobando/)
+
+Follow me on: [Medium](https://medium.com/@obandoandrew8)
 
 ---
 
