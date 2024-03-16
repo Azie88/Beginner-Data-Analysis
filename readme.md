@@ -10,9 +10,9 @@ The objective, as a data analyst, was to draw insights on the available data fro
 
 ## Project Links :link:
 
-| Code | Name | Published Article | PowerBi Dashboard |
+| Code | Jupyter Notebook | Published Article | PowerBi Dashboard |
 |------|------|-------------------|-------------------|
-| LP1 | Indian Startup Funding Analysis | <a href="https://medium.com/@obandoandrew8/beginner-data-analytics-indian-startup-ecosystem-dataset-2018-2021-e4a5a2fb5516">Medium Article</a> | <a href="https://app.powerbi.com/view?r=eyJrIjoiZjFiMjUyNTAtYTBlOC00Njk3LWI4OWUtZWI3MWI0YjMwMDVlIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9">PowerBI Dashboard</a> |
+| LP1 | <a href="https://github.com/Azie88/LP1-Data-Analysis/blob/main/Project_notebook.ipynb">Notebook) | <a href="https://medium.com/@obandoandrew8/beginner-data-analytics-indian-startup-ecosystem-dataset-2018-2021-e4a5a2fb5516">Medium Article</a> | <a href="https://app.powerbi.com/view?r=eyJrIjoiZjFiMjUyNTAtYTBlOC00Njk3LWI4OWUtZWI3MWI0YjMwMDVlIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9">PowerBI Dashboard</a> |
 
 
 ## Table of Contents 🔖
