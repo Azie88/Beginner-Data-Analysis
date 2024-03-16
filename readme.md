@@ -23,7 +23,7 @@ The objective, as a data analyst, was to draw insights on the available data fro
 - [Process](#process)
 - [Project Structure](#project-structure-open_file_folder)
 - [Key Insights](#key-insights-chart_with_upwards_trend)
-- [Dashboard](#dashboard-tv)
+- [Dashboard](#power-bi-dashboard-tv)
 - [How To Use This Repository](#how-to-use-the-repository)
 - [Author](#author-writing_hand)
 
