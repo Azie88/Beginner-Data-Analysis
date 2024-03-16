@@ -99,7 +99,7 @@ The Indian startup ecosystem is a vibrant and influential force in the global ma
 
 
 
-## Dashboard :tv:
+## Power BI Dashboard :tv:
 ![Dashboard](https://github.com/Azie88/LP1-Data-Analysis/assets/101363399/82c784e7-f817-4642-905c-a5f7d2ed724f)
 
 ## How to Use The Repository
