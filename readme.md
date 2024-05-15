@@ -67,7 +67,7 @@ The objective, as a data analyst, was to draw insights on the available data fro
 
 - Data preprocessing, cleaning and merging- The data was very messy and 90% of the project involved cleaning and making the data ready for analysis and visualizations
 
-- Visualise the data with seaborn and pyplot
+- Visualise the data with seaborn and matplotlib.pyplot
 
 - Created a PowerBI dashboard with the visualizations
 
