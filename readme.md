@@ -141,7 +141,6 @@ The two long command-lines have the same structure. They pipe multiple commands 
 Andrew Obando
 
 <a href="https://www.linkedin.com/in/andrewobando/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Andrew Obando | LinkedIn"/></a>
-
 <a href="https://medium.com/@obandoandrew8">
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 </a>
