@@ -10,9 +10,9 @@ The objective, as a data analyst, was to draw insights on the available data fro
 
 ## Project Links :link:
 
-| Code | Jupyter Notebook | Published Article | PowerBi Dashboard |
-|------|------|-------------------|-------------------|
-| LP1 | <a href="https://github.com/Azie88/LP1-Data-Analysis/blob/main/Project_notebook.ipynb">Notebook | <a href="https://medium.com/@obandoandrew8/beginner-data-analytics-indian-startup-ecosystem-dataset-2018-2021-e4a5a2fb5516">Medium Article</a> | <a href="https://app.powerbi.com/view?r=eyJrIjoiZjFiMjUyNTAtYTBlOC00Njk3LWI4OWUtZWI3MWI0YjMwMDVlIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9">PowerBI Dashboard</a> |
+| Jupyter Notebook | Published Article | PowerBi Dashboard |
+|------|-------------------|-------------------|
+| <a href="https://github.com/Azie88/LP1-Data-Analysis/blob/main/Project_notebook.ipynb">Notebook | <a href="https://medium.com/@obandoandrew8/beginner-data-analytics-indian-startup-ecosystem-dataset-2018-2021-e4a5a2fb5516">Medium Article</a> | <a href="https://app.powerbi.com/view?r=eyJrIjoiZjFiMjUyNTAtYTBlOC00Njk3LWI4OWUtZWI3MWI0YjMwMDVlIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9">PowerBI Dashboard</a> |
 
 
 ## Table of Contents 🔖
@@ -88,12 +88,10 @@ The objective, as a data analyst, was to draw insights on the available data fro
 
 ## Key Insights :chart_with_upwards_trend:
 
-1. India's startup ecosystem is positive and thriving with strong favor towards technological companies
-2. Equal opportunities exist for non-technological sectors as well
-3. Fintech and retail sectors are particularly active in the Indian startup ecosystem
-4. Mumbai is at the forefront of these developments in fintech and retail sectors
-5. Non-technical industries have a few large investments that skew the mean higher
-6. Technical industries have a larger number of smaller investments, driving up the sum.
+1. Top sectors in indian startup ecosystem are **Fintech**, **Retail**, **Edtech**, **Tech** and **E-commerce**.
+2. **Bangalore** has the most startups. It seems to be the emerging city with the top sectors being **Retail**, **Food Delivery**, **Innovation Management** and **FinTech**
+3. **Mumbai** is the big city with the big money investments, with leading sectors being **Fintech**, **Retail** and a **Multinational conglomerate**
+4. There seems to be high demand for finance solutions and shopping experiences. Retail was popular during the pandemic as more people were probably shopping from home.
 
 The Indian startup ecosystem is a vibrant and influential force in the global market. This project provides valuable insights into funding patterns and industry preferences. By leveraging this information, stakeholders can make informed decisions and contribute to the growth and success of startups in India.
 
@@ -101,6 +99,8 @@ The Indian startup ecosystem is a vibrant and influential force in the global ma
 
 ## Power BI Dashboard :tv:
 ![Dashboard](https://github.com/Azie88/LP1-Data-Analysis/assets/101363399/82c784e7-f817-4642-905c-a5f7d2ed724f)
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZjFiMjUyNTAtYTBlOC00Njk3LWI4OWUtZWI3MWI0YjMwMDVlIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9">PowerBI Dashboard</a>
 
 ## How to Use The Repository
 
@@ -140,9 +140,11 @@ The two long command-lines have the same structure. They pipe multiple commands 
 
 Andrew Obando
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/andrewobando/)
+<a href="https://www.linkedin.com/in/andrewobando/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Andrew Obando | LinkedIn"/></a>
 
-Follow me on [Medium](https://medium.com/@obandoandrew8)
+<a href="https://medium.com/@obandoandrew8">
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+</a>
 
 -----
 
